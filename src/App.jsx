@@ -1,13 +1,14 @@
-import Login from "./pages/Login"
+import Movies from "./pages/Movies"
 
 function App() {
 
   return (
     <div>
-      <Login />
+      <Movies />
     </div>
   )
 
 }
 
 export default App
+
